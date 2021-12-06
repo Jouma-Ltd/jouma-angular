@@ -1,2 +1,2 @@
 # nodejs
-NodeJS components
+Jouma Angular-components
